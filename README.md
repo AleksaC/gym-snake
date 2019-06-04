@@ -12,9 +12,9 @@ The task was one of the warmups in
 ### Install the environment
 To install the environment open the terminal and enter the following
 commands:
-1. git clone https://github.com/AleksaC/snake.git
-2. cd gym-snake
-3. python -m pip install .
+1. `git clone https://github.com/AleksaC/snake.git`
+2. `cd gym-snake`
+3. `python -m pip install .`
 
 Note:
 To be able to use the environment you need to `import gym_snake` before 
