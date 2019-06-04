@@ -12,9 +12,9 @@ have trouble installing this environment.
 
 To install the environment open the terminal and enter the following
 commands:
-1. git clone https://github.com/AleksaC/gym-snake.git
-2. cd gym-snake/gym-snake
-3. python -m pip install .
+1. `git clone https://github.com/AleksaC/gym-snake.git`
+2. `cd gym-snake/gym-snake`
+3. `python -m pip install .`
 
 If you want to modify the environment you should use `python -m pip install -e .`
 This will install the environment in 
