@@ -28,7 +28,7 @@ tensorflow installed to be able to run it.
 ## Contact
 If you want to reach out to me to make an inquiry about this project 
 or for something else you can contact me through my
-[personal website](https://www.aleksac.me) or via social media linked there.
+[personal website](https://aleksac.me) or via social media linked there.
 If you want to stay up to date with my latest projects you should follow me 
 on twitter:
 <a target="_blank" href="http://twitter.com/aleksa_c_"><img alt='Twitter followers' src="https://img.shields.io/twitter/follow/aleksa_c_.svg?style=social"></a>
